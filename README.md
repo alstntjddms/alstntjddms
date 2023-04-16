@@ -1,17 +1,15 @@
-### Hi there 👋
 
-<!--
-**alstntjddms/alstntjddms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50565c&lines=🐯Minsu+Github🤖&font=Redressed&size=30)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alstntjddms&exclude_repo=alstntjddms.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=alstntjddms&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alstntjddms&theme=vue)](https://github.com/alstntjddms/github-readme-activity-graph)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Minsu's+Github🚗🚘🚛&fontAlign=70)
