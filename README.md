@@ -9,6 +9,7 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alstntjddms&exclude_repo=alstntjddms.github.io&layout=compact&theme=tokyonight" />
 </a>
+  <br>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=alstntjddms&theme=tokyonight&show_icons=true" width="42%" />
 </a>
